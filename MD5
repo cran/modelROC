@@ -1,0 +1,15 @@
+c40614db7490ccd75fd0d113d5cf7a2e *DESCRIPTION
+ae8d9b80658e24ba21d1fadf55323d44 *NAMESPACE
+42fe9102cada8e752f451478977c5d5e *R/auc.R
+3f69d28c322e35c5ae71a173d715f57e *R/auc.coxph.R
+f9cb95b2976cc1c2ef1c54d855f1ce17 *R/ggplot.auc_coxph.R
+b72efcb9b3d7741dbdef84125793c571 *R/ggplot.roc_coxph.R
+90af00160204e1439b4f6d23f2b7a09c *R/ggplot.roc_logit.R
+2d571f7e109c6e0416c4487ee5313b5d *R/roc.R
+1b5099700fc9296f78cb62ca9c401c1a *R/roc.coxph.R
+f3fdb63024e651ce474f13fa67a3ec81 *R/roc.lrm.R
+c25f6680999a44095f7c065ea2642e5e *R/unique.R
+0ebaaf16730a9ca69617ccd90483337f *man/auc.Rd
+ef2b8ca8536502ad7f481fc7bf3ccb92 *man/ggplot.Rd
+dd9c2dc347b1a3d4de7fb95489bb210e *man/roc.Rd
+7a617f4324414ba92ea8bef9ad5f9d05 *man/unique.Rd
